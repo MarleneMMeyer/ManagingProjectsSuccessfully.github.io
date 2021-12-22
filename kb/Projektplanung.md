@@ -71,4 +71,3 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 [^6]: [Trepper, T. (2012). Agil-systemisches Softwareprojektmanagement,*Klassisches Projektmanagement* (S. 23-40). Gabler.](https://link.springer.com/book/10.1007%2F978-3-8349-4202-9)
 [^7]: https://www.projektmagazin.de/glossarterm/strategisches-projektmanagement
 [^8]: https://management.bildungsbibel.de/projektmanagement-wasserfallmodell-softwareentwicklung-phasen
-
